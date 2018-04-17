@@ -14,3 +14,4 @@ Following are java files present in this repo:
     FileAsSource.java : This is a producer file, which reads records from a file and send them as messages to consumer.
     MysqlAsProducer.java: This is a Producer file, which reads records from a MySql Database and send them as messages to consumer. 
     MysqlAsConsumer.java: This is a Consumer file, which injects the received records into MySql Database. 
+    Server.properties: This is kafka server properties file for reference. 
